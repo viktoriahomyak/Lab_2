@@ -1,0 +1,34 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#id_header{
+	width: 980px;
+	height: 125px;
+	border-top: solid 4px #3b7a9d;
+	margin: auto;
+}
+.class_img{
+	width: 80px;
+	height: 70px;
+	display: block;
+	float: left;
+}
+.wrap{
+	width: 250px;
+	height: 35px;
+	float: right; 
+	/*padding: 20px 10px 20px 550px;*/
+	border-color: #dddddd;
+	border-width: 2px;
+	border-style: solid;
+}
+.edit_search{
+
+
+
+}
+.button_search{
+	float: right;
+
+}
