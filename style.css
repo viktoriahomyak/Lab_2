@@ -18,7 +18,7 @@ body,ul{
 	/*width: 250px;
 	height: 35px;*/
 	float: right; 
-	padding: 45px 30px 45px 0px;
+	padding: 42px 30px 42px 0px;
 }
 .edit_search{
 	border-color: #dddddd;
@@ -47,6 +47,9 @@ body,ul{
 }
 .ul_cls{
 	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	width: 960px;
 }
 .li_cls{
 	display: inline-block;
@@ -55,7 +58,127 @@ body,ul{
 	text-align: center;
 	padding-top: 21px;
 	padding-bottom: 21px;
+	font-size: 14px;
 }
 .li_cls:hover{
 	color: #cccccc;
+}
+
+.div5{
+	height: 400px;
+	background-color: #696969;
+	width: 960px;
+	margin-left: 70px;
+	margin-bottom:40px;
+	color: white;
+	margin-left: 470px;
+}
+/*.text1{
+	text-align: center;
+}*/
+.div6{
+	height: 400px;
+	background-color: #000000;
+	width: 300px;
+}
+.div7{
+	height: 355px;
+	background-color: wait;
+	width: 225px;
+	float: left;
+	margin-left: 470px;
+	}
+.div8{
+	height: 355px;
+	background-color:wait;
+	width: 225px;
+	float: left;
+	margin-left: 20px;
+	}
+.div9{
+	height: 180px;
+	background-color: #000000;
+	}
+.div10{
+	height:2px;
+	background-color: #000000;
+	width: 980px;
+	margin-left: 470px;
+	float: left;
+	}
+.div11{
+	height: 470px;
+	background-color:white ;
+	float: left;
+	margin-left: 10px;
+	width: 320px;
+	}
+.div12{
+	height: 62px;
+	width: 980px;
+	background-color:#3b7a9d;
+    float: left;
+	}
+.div13{
+	height: 235px;
+	width: 300px;
+	margin-left: 10px;
+	}
+	p{
+	margin-bottom: -8px;
+	}
+.div14{
+	height: 62px;
+	width: 100px;
+	background-color:#3b7a9d;
+    float: right;
+   /* margin-top: 16px;
+    margin-bottom: 16px;*/
+	}
+.div15{
+	background-color: white;
+	height: 130px;
+	width: 180
+    margin-top: 10px;
+	}
+.div16{
+	height: 80px;
+	width:80px ;
+	background-color:#000000;
+    float: left;
+    margin-top: 10px;
+	}
+.div17{
+	height: 100px;
+	width:160px ;
+	background-color:white;
+    float: left;
+    margin-left: 10px;
+	}
+.imag1{
+	height: 180px;
+	width: 225px;
+	float: left
+	}
+.imag2{
+	height: 80px;
+	width: 80px;
+	float: left
+	}
+.imag3{
+	height: 400px;
+	width: 660px;
+    margin-left: 300px;
+	}
+.imag4{
+	height: 235px;
+	width: 300px;
+	float: left;
+}	
+.wrap2{
+	margin: auto;
+	/*margin-bottom: 40px;*/
+	width: 980px;
+	height: 470px;
+
 }
