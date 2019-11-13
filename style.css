@@ -103,19 +103,20 @@ body,ul{
 	height:2px;
 	background-color: #000000;
 	width: 980px;
-	margin-left: 470px;
+	margin-left: 464px;
 	float: left;
 	}
 .div11{
 	height: 470px;
 	background-color:white ;
 	float: left;
-	margin-left: 10px;
+	margin-left: 5px;
 	width: 320px;
 	}
 .div12{
 	height: 62px;
 	width: 980px;
+	margin-left: 464px;
 	background-color:#3b7a9d;
     float: left;
 	}
@@ -128,12 +129,11 @@ body,ul{
 	margin-bottom: -8px;
 	}
 .div14{
-	height: 62px;
+	height: 30px;
 	width: 100px;
 	background-color:#3b7a9d;
     float: right;
-   /* margin-top: 16px;
-    margin-bottom: 16px;*/
+
 	}
 .div15{
 	background-color: white;
@@ -180,5 +180,4 @@ body,ul{
 	/*margin-bottom: 40px;*/
 	width: 980px;
 	height: 470px;
-
 }
